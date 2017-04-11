@@ -1,0 +1,4 @@
+PRETTY_HOSTNAME="Ashhar's Laptop"
+ICON_NAME=computer-laptop
+CHASSIS=laptop
+DEPLOYMENT=production
