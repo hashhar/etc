@@ -44,3 +44,5 @@ dbus:!!::
 systemd-journal-remote:!!::
 systemd-journal-upload:!!::
 ashhar:!::
+git:!::
+polkitd:!::

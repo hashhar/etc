@@ -16,3 +16,5 @@ dbus:!!:17266::::::
 systemd-journal-remote:!!:17266::::::
 systemd-journal-upload:!!:17266::::::
 ashhar:$6$5UYIGzdHH4FiUMsM$kjN9kJwBTzjdHud9Sv.nlAHklfNZLgFhgzZUasl1L0A164JXqvIacEbH9SrGh6/6Z3G.oarrFSO2NMCKoZLlC1:17266:0:99999:7:::
+git:!:17266::::::
+polkitd:!:17267:0:99999:7:::
