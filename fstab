@@ -1,0 +1,26 @@
+# 
+# /etc/fstab: static file system information
+#
+# <file system>	<dir>	<type>	<options>	<dump>	<pass>
+# /dev/sda5 LABEL=ArchLinux
+#PARTUUID=024e95d2-3f50-4341-82f3-76b51b36a1ad	/			ext4	rw,relatime											0 1
+
+# /dev/sda2
+PARTUUID=48f12819-1c13-4e5c-bf63-a624d8f0c8a9	/boot			vfat	rw,umask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro		0 0
+
+# /dev/sdb1 LABEL=Resources
+PARTUUID=18cff7b3-e5a6-11e6-bae1-34e6d756473b	/media/Resources	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+
+# /dev/sdb2 LABEL=Media
+PARTUUID=f0bbb85f-e68d-11e6-bae5-34e6d756473b	/media/Media		ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+
+# /dev/sdb3 LABEL=Data
+PARTUUID=64098584-7140-489e-9522-d312bc1b4382	/media/Data		ext4	rw,relatime											0 2
+
+# /dev/sdb4 LABEL=Swap
+PARTUUID=5cf0c98f-d788-44d9-b329-bd06ceec9a70	none			swap	sw												0 0
+
+# Bind mounts
+/media/Media/Music				/home/ashhar/Music	none	bind,noauto,x-systemd.automount									0 0
+/media/Media/Pictures				/home/ashhar/Pictures	none	bind,noauto,x-systemd.automount									0 0
+/media/Media/Videos				/home/ashhar/Videos	none	bind,noauto,x-systemd.automount									0 0
