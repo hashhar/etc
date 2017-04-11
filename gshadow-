@@ -46,3 +46,4 @@ systemd-journal-upload:!!::
 ashhar:!::
 git:!::
 polkitd:!::
+rtkit:!::
