@@ -47,3 +47,5 @@ ashhar:x:1000:
 git:x:996:
 polkitd:x:102:
 rtkit:x:133:
+avahi:x:84:
+mpd:x:45:

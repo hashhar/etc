@@ -19,3 +19,4 @@ ashhar:$6$5UYIGzdHH4FiUMsM$kjN9kJwBTzjdHud9Sv.nlAHklfNZLgFhgzZUasl1L0A164JXqvIac
 git:!:17266::::::
 polkitd:!:17267:0:99999:7:::
 rtkit:!:17267:0:99999:7:::
+avahi:!:17267::::::
