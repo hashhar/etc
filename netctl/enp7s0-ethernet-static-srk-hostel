@@ -1,11 +1,11 @@
-Description='A basic static ethernet connection'
-Interface=eth0
+Description='Ethernet for JMI SRK Hostel'
+Interface=enp7s0
 Connection=ethernet
 IP=static
-Address=('192.168.1.23/24' '192.168.1.87/24')
-#Routes=('192.168.0.0/24 via 192.168.1.2')
-Gateway='192.168.1.1'
-DNS=('192.168.1.1')
+Address=('10.81.0.101/16')
+#Routes=('10.81.0.0/16 via 10.81.0.1')
+Gateway='10.81.0.1'
+DNS=('10.2.0.14')
 
 ## For IPv6 autoconfiguration
 #IP6=stateless
