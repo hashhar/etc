@@ -23,7 +23,7 @@ games:::
 lock:::
 network:x::
 video:x::
-audio:::
+audio:::mpd
 optical:::
 floppy:x::
 storage:x::
