@@ -1,844 +1,476 @@
-## Generated using hashhars mirrorlist-gen script
-## Generated on 2017-04-15
-## Number of mirrors: 1000; Country: .*; Protocol: .*; Max Score: 100
-## Min completion percentage: 0.9; Max mirror delay: 86400;
-## Max avg connection latency: 2; Max std dev of latency: 2
+##
+## Arch Linux repository mirrorlist
+## Generated on 2017-04-27
+##
 
-# "Germany", Score = 0.031242820535896266
-Server = https://mirror.f4st.host/archlinux/$repo/os/$arch
-# "Germany", Score = 0.05691364229596406
-Server = http://mirror.f4st.host/archlinux/$repo/os/$arch
-# "Germany", Score = 0.10303547463793862
-Server = http://archmirror.tomforb.es/$repo/os/$arch
-# "Germany", Score = 0.10350292530740293
-Server = http://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
-# "Germany", Score = 0.14086996074195468
-Server = https://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
-# "Italy", Score = 0.14225805980729248
-Server = http://archlinux.prometeolibero.eu/archlinux/$repo/os/$arch
-# "Germany", Score = 0.17012986508382946
-Server = rsync://mirror.f4st.host/archlinux/$repo/os/$arch
-# "Italy", Score = 0.17035960000760908
-Server = https://archlinux.prometeolibero.eu/archlinux/$repo/os/$arch
-# "Netherlands", Score = 0.17117477249600144
-Server = http://ftp.nluug.nl/os/Linux/distr/archlinux/$repo/os/$arch
-# "Germany", Score = 0.1874804327508991
-Server = https://mirror.hactar.xyz/$repo/os/$arch
-# "Sweden", Score = 0.19436477301975344
-Server = http://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
-# "Germany", Score = 0.19529484788265927
-Server = http://mirror.hactar.xyz/$repo/os/$arch
-# "Sweden", Score = 0.196157702547273
-Server = http://archlinux.dynamict.se/$repo/os/$arch
-# "Germany", Score = 0.2007403349557098
-Server = https://archmirror.tomforb.es/$repo/os/$arch
-# "Sweden", Score = 0.24394306135999375
-Server = https://archlinux.dynamict.se/$repo/os/$arch
-# "Sweden", Score = 0.25138542122638213
-Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
-# "Bulgaria", Score = 0.26164094647021013
-Server = http://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
-# "Bulgaria", Score = 0.2776596799110497
-Server = https://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
-# "Germany", Score = 0.2846919321478554
-Server = rsync://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
-# "Sweden", Score = 0.28863321872389397
-Server = https://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
-# "France", Score = 0.294769815954256
-Server = http://mirror.tyborek.pl/arch/$repo/os/$arch
-# "Norway", Score = 0.30501549164330743
-Server = https://mirror.neuf.no/archlinux/$repo/os/$arch
-# "Norway", Score = 0.3117358249347963
-Server = http://mirror.neuf.no/archlinux/$repo/os/$arch
-# "Canada", Score = 0.3226298405445685
-Server = http://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
-# "Russia", Score = 0.3902021877566116
-Server = http://mirror.aur.rocks/$repo/os/$arch
-# "Czech Republic", Score = 0.43925686074651
-Server = http://ftp.sh.cvut.cz/arch/$repo/os/$arch
-# "Norway", Score = 0.4658297039219428
-Server = http://mirror.archlinux.no/$repo/os/$arch
-# "Canada", Score = 0.49494703175230076
-Server = https://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 0.5184286896847358
-Server = http://gluttony.sin.cvut.cz/arch/$repo/os/$arch
-# "Czech Republic", Score = 0.5371952419406802
-Server = https://ftp.sh.cvut.cz/arch/$repo/os/$arch
-# "Germany", Score = 0.5374098953346913
-Server = http://mirrors.n-ix.net/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 0.5501746142423374
-Server = https://gluttony.sin.cvut.cz/arch/$repo/os/$arch
-# "Sweden", Score = 0.5509562353412584
-Server = rsync://rsync.osbeck.com/archlinux/$repo/os/$arch
-# "Germany", Score = 0.5527867026659469
-Server = http://mirror.23media.de/archlinux/$repo/os/$arch
-# "Germany", Score = 0.5547334127061552
-Server = http://mirror.de.leaseweb.net/archlinux/$repo/os/$arch
-# "Germany", Score = 0.5838873887795857
-Server = https://mirrors.n-ix.net/archlinux/$repo/os/$arch
-# "Germany", Score = 0.5846904076235755
-Server = http://mirror.gnomus.de/$repo/os/$arch
-# "Sweden", Score = 0.5943273215097467
-Server = http://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
-# "Denmark", Score = 0.6101783729366097
-Server = http://mirrors.dotsrc.org/archlinux/$repo/os/$arch
-# "Bosnia and Herzegovina", Score = 0.6197955442168332
-Server = http://archlinux.mirror.ba/$repo/os/$arch
-# "Germany", Score = 0.6220203359164418
-Server = https://mirror.de.leaseweb.net/archlinux/$repo/os/$arch
-# "Germany", Score = 0.6324816444839179
-Server = http://mirror5.bastelfreak.org/archlinux/$repo/os/$arch
-# "Sweden", Score = 0.6424772826098543
-Server = rsync://rsync.myrveln.se/pub/linux/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 0.6453274646495988
-Server = http://archlinux.mirrors.uk2.net/$repo/os/$arch
-# "Germany", Score = 0.6619032948568948
-Server = https://arch.jensgutermuth.de/$repo/os/$arch
-# "Norway", Score = 0.6841111195709333
-Server = rsync://mirror.neuf.no/archlinux/$repo/os/$arch
-# "Sweden", Score = 0.6926721572026937
-Server = https://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
-# "Denmark", Score = 0.7025783659057617
-Server = https://mirrors.dotsrc.org/archlinux/$repo/os/$arch
-# "France", Score = 0.7034403704483592
-Server = https://mirror.tyborek.pl/arch/$repo/os/$arch
-# "Sweden", Score = 0.7242599876707276
-Server = rsync://archlinux.dynamict.se/archlinux/$repo/os/$arch
-# "Netherlands", Score = 0.7264121360693426
-Server = http://ftp.snt.utwente.nl/pub/os/linux/archlinux/$repo/os/$arch
-# "Germany", Score = 0.7277646134175243
-Server = http://arch.jensgutermuth.de/$repo/os/$arch
-# "Germany", Score = 0.7345051703089849
-Server = rsync://mirror5.bastelfreak.org/archlinux/$repo/os/$arch
-# "Netherlands", Score = 0.7353638745312118
-Server = rsync://ftp.nluug.nl/archlinux/$repo/os/$arch
-# "United States", Score = 0.7389536952456824
-Server = http://mirror.us.leaseweb.net/archlinux/$repo/os/$arch
-# "Belarus", Score = 0.7399942997756236
-Server = http://mirror.datacenter.by/pub/archlinux/$repo/os/$arch
-# "Russia", Score = 0.7462466369536579
-Server = https://mirror.aur.rocks/$repo/os/$arch
-# "Portugal", Score = 0.748948695568491
-Server = http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/$repo/os/$arch
-# "Germany", Score = 0.75069676736476
-Server = rsync://mirror.23media.de/archlinux/$repo/os/$arch
-# "Poland", Score = 0.7969166671047805
-Server = http://arch.midov.pl/arch/$repo/os/$arch
-# "Canada", Score = 0.8045618312291938
-Server = http://mirror.frgl.pw/archlinux/$repo/os/$arch
-# "United States", Score = 0.8098070499767186
-Server = http://mirrors.kernel.org/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 0.8237843851444205
-Server = http://mirrors.manchester.m247.com/arch-linux/$repo/os/$arch
-# "United States", Score = 0.8488595342361843
-Server = http://mirrors.rit.edu/archlinux/$repo/os/$arch
-# "France", Score = 0.8507439156939565
-Server = https://fooo.biz/archlinux/$repo/os/$arch
-# "Germany", Score = 0.8628951333558669
-Server = http://mirrors.niyawe.de/archlinux/$repo/os/$arch
-# "United States", Score = 0.8666146980834645
-Server = http://archlinux.surlyjake.com/archlinux/$repo/os/$arch
-# "Bulgaria", Score = 0.8676157915609963
-Server = rsync://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
-# "Netherlands", Score = 0.8780217769433678
-Server = http://mirror.nl.leaseweb.net/archlinux/$repo/os/$arch
-# "United States", Score = 0.8870492642642099
-Server = http://mirror.kaminski.io/archlinux/$repo/os/$arch
-# "Germany", Score = 0.8896025342021805
-Server = rsync://mirror.de.leaseweb.net/archlinux/$repo/os/$arch
-# "Germany", Score = 0.8944454033403664
-Server = https://mirrors.niyawe.de/archlinux/$repo/os/$arch
-# "Netherlands", Score = 0.9452483911510181
-Server = https://mirror.nl.leaseweb.net/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 0.9631707139506455
-Server = rsync://mirrors.uk2.net/archlinux/$repo/os/$arch
-# "Germany", Score = 0.9869580102262809
-Server = http://mirror.united-gameserver.de/archlinux/$repo/os/$arch
-# "Bosnia and Herzegovina", Score = 0.9981716897281758
-Server = rsync://archlinux.mirror.ba/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0109505183803327
-Server = rsync://mirrors.niyawe.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0150764529599514
-Server = http://ftp.fau.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0178367322785642
-Server = https://mirror.vfn-nrw.de/archlinux/$repo/os/$arch
-# "Belarus", Score = 1.0258929849635177
-Server = http://ftp.byfly.by/pub/archlinux/$repo/os/$arch
-# "United States", Score = 1.031538171351217
-Server = http://il.mirrors.linaxe.net/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0326623533415382
-Server = rsync://mirror.vfn-nrw.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0349649212445984
-Server = http://mirror.netcologne.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0511691304213369
-Server = http://mirror.vfn-nrw.de/archlinux/$repo/os/$arch
-# "United States", Score = 1.0544590742288025
-Server = http://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
-# "Germany", Score = 1.064831447346159
-Server = https://ftp.fau.de/archlinux/$repo/os/$arch
-# "Greece", Score = 1.0650022394285905
-Server = http://foss.aueb.gr/mirrors/linux/archlinux/$repo/os/$arch
-# "", Score = 1.0808923284435203
-Server = https://archlinux.surlyjake.com/archlinux/$repo/os/$arch
-# "Germany", Score = 1.0838013345803315
-Server = https://mirror.netcologne.de/archlinux/$repo/os/$arch
-# "Greece", Score = 1.0969850085739274
-Server = https://foss.aueb.gr/mirrors/linux/archlinux/$repo/os/$arch
-# "Belgium", Score = 1.108138395821689
-Server = http://archlinux.mirror.kangaroot.net/$repo/os/$arch
-# "South Africa", Score = 1.1110460349188866
-Server = http://ftp.wa.co.za/pub/archlinux/$repo/os/$arch
-# "Iceland", Score = 1.12230085173431
-Server = http://mirror.system.is/arch/$repo/os/$arch
-# "United States", Score = 1.124368874540991
-Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
-# "Croatia", Score = 1.1250633513722197
-Server = http://archlinux.iskon.hr/$repo/os/$arch
-# "United States", Score = 1.1366485207843207
-Server = https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
-# "Denmark", Score = 1.179067760925632
-Server = rsync://mirrors.dotsrc.org/archlinux/$repo/os/$arch
-# "France", Score = 1.1967993786951445
-Server = rsync://fooo.biz/archlinux/$repo/os/$arch
-# "Australia", Score = 1.198542373956633
-Server = http://ftp.swin.edu.au/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 1.2076480464009982
-Server = rsync://mirrors.manchester.m247.com/archlinux/$repo/os/$arch
-# "Netherlands", Score = 1.2203642957411347
-Server = rsync://mirror.nl.leaseweb.net/archlinux/$repo/os/$arch
-# "France", Score = 1.2288158312383501
-Server = http://fooo.biz/archlinux/$repo/os/$arch
-# "Germany", Score = 1.2336161741685587
-Server = rsync://mirror.united-gameserver.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.2438375422062122
-Server = rsync://ftp.fau.de/archlinux/$repo/os/$arch
-# "Netherlands", Score = 1.2552451539429181
-Server = http://archlinux.mirror.wearetriple.com/$repo/os/$arch
-# "Romania", Score = 1.2565410518499094
-Server = http://archlinux.mirrors.linux.ro/$repo/os/$arch
-# "United States", Score = 1.272830014535819
-Server = http://mirror.es.its.nyu.edu/archlinux/$repo/os/$arch
-# "Netherlands", Score = 1.2998904866565573
-Server = rsync://ftp.snt.utwente.nl/archlinux/$repo/os/$arch
-# "Iceland", Score = 1.3093780341526533
-Server = https://mirror.system.is/arch/$repo/os/$arch
-# "United States", Score = 1.3186738091402097
-Server = https://mirror.us.leaseweb.net/archlinux/$repo/os/$arch
-# "Slovenia", Score = 1.3202814757430232
-Server = http://archimonde.ts.si/archlinux/$repo/os/$arch
-# "Germany", Score = 1.3214284573615718
-Server = rsync://mirror.netcologne.de/archlinux/$repo/os/$arch
-# "Canada", Score = 1.321770091216017
-Server = http://mirror.cedille.club/archlinux/$repo/os/$arch
-# "Germany", Score = 1.3446435988988505
-Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
-# "United States", Score = 1.3474352245134216
-Server = http://mirrors.acm.wpi.edu/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 1.3497816081999199
-Server = http://mirror.vpsfree.cz/archlinux/$repo/os/$arch
-# "Sweden", Score = 1.3660728646219198
-Server = http://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
-# "United States", Score = 1.3849629775321624
-Server = http://mirror.jmu.edu/pub/archlinux/$repo/os/$arch
-# "Brazil", Score = 1.4093469469987723
-Server = http://archlinux.c3sl.ufpr.br/$repo/os/$arch
-# "Netherlands", Score = 1.4111534229320286
-Server = https://archlinux.mirror.wearetriple.com/$repo/os/$arch
-# "Slovenia", Score = 1.4152701037473003
-Server = https://archimonde.ts.si/archlinux/$repo/os/$arch
-# "Sweden", Score = 1.4242619037074675
-Server = https://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
-# "Germany", Score = 1.4302395950722868
-Server = https://mirror.metalgamer.eu/archlinux/$repo/os/$arch
-# "Canada", Score = 1.4328976081879399
-Server = rsync://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
-# "France", Score = 1.4418886042123236
-Server = http://arch.nimukaito.net/$repo/os/$arch
-# "United States", Score = 1.4511763233359158
-Server = http://mirrors.rutgers.edu/archlinux/$repo/os/$arch
-# "Germany", Score = 1.4977234247991813
-Server = http://ftp.gwdg.de/pub/linux/archlinux/$repo/os/$arch
-# "Canada", Score = 1.505904612343449
-Server = http://archlinux.mirror.rafal.ca/$repo/os/$arch
-# "Switzerland", Score = 1.5079028412622313
-Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
-# "Luxembourg", Score = 1.5253397349121474
-Server = http://archlinux.mirror.root.lu/$repo/os/$arch
-# "Germany", Score = 1.5304083616156756
-Server = http://mirror.pseudoform.org/$repo/os/$arch
-# "Germany", Score = 1.5311291467198391
-Server = http://ftp.halifax.rwth-aachen.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.5372260743687098
-Server = https://mirror.pseudoform.org/$repo/os/$arch
-# "Canada", Score = 1.548234085956207
-Server = https://mirror.frgl.pw/archlinux/$repo/os/$arch
-# "Switzerland", Score = 1.5499124435552296
-Server = https://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
-# "Belarus", Score = 1.5568561328019506
-Server = rsync://ftp.byfly.by/archlinux/$repo/os/$arch
-# "Australia", Score = 1.5666532093150627
-Server = http://mirror.internode.on.net/pub/archlinux/$repo/os/$arch
-# "Denmark", Score = 1.5791914245451624
-Server = http://mirror.one.com/archlinux/$repo/os/$arch
-# "Belarus", Score = 1.5844681021612665
-Server = rsync://mirror.datacenter.by/archlinux/$repo/os/$arch
-# "France", Score = 1.5871999610810086
-Server = http://archlinux.mailtunnel.eu/$repo/os/$arch
-# "Germany", Score = 1.5911206316012716
-Server = https://mirror.bethselamin.de/$repo/os/$arch
-# "United States", Score = 1.5913371834947334
-Server = http://mirror.umd.edu/archlinux/$repo/os/$arch
-# "France", Score = 1.5966695141553624
-Server = https://arch.nimukaito.net/$repo/os/$arch
-# "Indonesia", Score = 1.6102219067813663
-Server = http://mirror.devilzc0de.org/archlinux/$repo/os/$arch
-# "France", Score = 1.62486601300192
-Server = https://www.mailtunnel.eu/archlinux/$repo/os/$arch
-# "Taiwan", Score = 1.6275511990461862
-Server = http://shadow.ind.ntou.edu.tw/archlinux/$repo/os/$arch
-# "Sweden", Score = 1.6305540905835403
-Server = http://ftp.portlane.com/pub/os/linux/archlinux/$repo/os/$arch
-# "Germany", Score = 1.6502864895209268
-Server = https://mirror.jankoppe.de/$repo/os/$arch
-# "Iceland", Score = 1.6579636059057414
-Server = rsync://mirror.system.is/arch/$repo/os/$arch
-# "Japan", Score = 1.6602113289421079
-Server = http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/$repo/os/$arch
-# "Germany", Score = 1.6654719213888285
-Server = http://mirror.ubrco.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.6671976090529252
-Server = rsync://mirror.pseudoform.org/packages/$repo/os/$arch
-# "United States", Score = 1.6724941808637144
-Server = http://mirrors.cat.pdx.edu/archlinux/$repo/os/$arch
-# "France", Score = 1.6738107744835986
-Server = http://arch.tamcore.eu/$repo/os/$arch
-# "Denmark", Score = 1.6782310364858877
-Server = https://mirror.one.com/archlinux/$repo/os/$arch
-# "Russia", Score = 1.679735821662419
-Server = http://mirror.yandex.ru/archlinux/$repo/os/$arch
-# "Germany", Score = 1.683145252540201
-Server = https://mirror.ubrco.de/archlinux/$repo/os/$arch
-# "France", Score = 1.6867245537576414
-Server = http://archlinux.polymorf.fr/$repo/os/$arch
-# "Hungary", Score = 1.6876227931752676
-Server = http://ftp.energia.mta.hu/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
-# "Slovenia", Score = 1.69537077880119
-Server = rsync://archimonde.ts.si/archlinux/$repo/os/$arch
-# "United States", Score = 1.6968319576181785
-Server = http://arch.localmsp.org/arch/$repo/os/$arch
-# "Czech Republic", Score = 1.6991122300550283
-Server = https://mirror.dkm.cz/archlinux/$repo/os/$arch
-# "Sweden", Score = 1.7102636780221676
-Server = rsync://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
-# "Poland", Score = 1.7264120533816167
-Server = http://mirror.chmuri.net/archmirror/$repo/os/$arch
-# "United States", Score = 1.7297143600517164
-Server = https://mirrors.rutgers.edu/archlinux/$repo/os/$arch
-# "Brazil", Score = 1.7304216322974004
-Server = http://br.mirror.archlinux-br.org/$repo/os/$arch
-# "Czech Republic", Score = 1.7323249602830273
-Server = rsync://gluttony.sin.cvut.cz/arch/$repo/os/$arch
-# "United States", Score = 1.7387156116631821
-Server = https://mirrors.tuxns.net/archlinux/$repo/os/$arch
-# "United States", Score = 1.7517994816781752
-Server = rsync://mirrors.kernel.org/archlinux/$repo/os/$arch
-# "Germany", Score = 1.7529947989605743
-Server = rsync://ftp.halifax.rwth-aachen.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.7697475959850906
-Server = rsync://ftp.gwdg.de/pub/linux/archlinux/$repo/os/$arch
-# "Russia", Score = 1.782570232364332
-Server = https://mirror.yandex.ru/archlinux/$repo/os/$arch
-# "Germany", Score = 1.7844453270134866
-Server = http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 1.7915050489449877
-Server = http://mirror.bytemark.co.uk/archlinux/$repo/os/$arch
-# "Russia", Score = 1.8004042932315296
-Server = rsync://aur.rocks/archlinux/$repo/os/$arch
-# "Poland", Score = 1.8037544541701784
-Server = http://ftp.vectranet.pl/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 1.8129509233382533
-Server = http://mirror.dkm.cz/archlinux/$repo/os/$arch
-# "Macedonia", Score = 1.823176820592295
-Server = http://mirror.t-home.mk/archlinux/$repo/os/$arch
-# "Portugal", Score = 1.8276366086796911
-Server = rsync://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/$repo/os/$arch
-# "France", Score = 1.82768159305242
-Server = rsync://archlinux.polymorf.fr/archlinux/$repo/os/$arch
-# "Germany", Score = 1.8300432087637415
-Server = http://mirror.loli.forsale/arch/$repo/os/$arch
-# "Germany", Score = 1.831157748712801
-Server = https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/$repo/os/$arch
-# "Germany", Score = 1.8315722679191733
-Server = http://archlinux.honkgong.info/$repo/os/$arch
-# "Germany", Score = 1.8328329686616731
-Server = http://repo.itmettke.de/archlinux/$repo/os/$arch
-# "United States", Score = 1.840013648172011
-Server = http://mirror.cc.columbia.edu/pub/linux/archlinux/$repo/os/$arch
-# "Germany", Score = 1.8438304750919616
-Server = rsync://mirror.ubrco.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.8558845373674473
-Server = https://repo.itmettke.de/archlinux/$repo/os/$arch
-# "United States", Score = 1.8576494522288198
-Server = http://mirror.cs.pitt.edu/archlinux/$repo/os/$arch
-# "France", Score = 1.864433758949973
-Server = rsync://archlinux.mailtunnel.eu/archlinux/$repo/os/$arch
-# "Switzerland", Score = 1.8797731395046817
-Server = rsync://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
-# "United States", Score = 1.8879949637528644
-Server = http://mirror.lty.me/archlinux/$repo/os/$arch
-# "Romania", Score = 1.9073210934856393
-Server = rsync://ftp.linux.ro/archlinux/$repo/os/$arch
-# "France", Score = 1.9192916646156029
-Server = http://archlinux.de-labrusse.fr/$repo/os/$arch
-# "Israel", Score = 1.9224568777704805
-Server = http://mirror.isoc.org.il/pub/archlinux/$repo/os/$arch
-# "Germany", Score = 1.9241343362825043
-Server = https://mirror.loli.forsale/arch/$repo/os/$arch
-# "Germany", Score = 1.9404309591176
-Server = http://mirror.fluxent.de/archlinux/$repo/os/$arch
-# "Germany", Score = 1.9410426564167123
-Server = https://mirror.fluxent.de/archlinux/$repo/os/$arch
-# "Macedonia", Score = 1.9723376450239394
-Server = http://arch.softver.org.mk/archlinux/$repo/os/$arch
-# "United States", Score = 1.9913453716964569
-Server = https://arch.localmsp.org/arch/$repo/os/$arch
-# "Macedonia", Score = 1.9999442700042382
-Server = https://mirror.t-home.mk/archlinux/$repo/os/$arch
-# "Germany", Score = 2.0037914878333716
-Server = http://archlinux.thaller.ws/$repo/os/$arch
-# "Iran", Score = 2.010072141021469
-Server = http://repo.sadjad.ac.ir/arch/$repo/os/$arch
-# "Germany", Score = 2.012735399222945
-Server = http://mirror.selfnet.de/archlinux/$repo/os/$arch
-# "United States", Score = 2.0177619014457475
-Server = http://mirror.as65535.net/archlinux/$repo/os/$arch
-# "France", Score = 2.039016938056343
-Server = rsync://arch.nimukaito.net/arch/$repo/os/$arch
-# "Germany", Score = 2.050900678347618
-Server = https://archlinux.thaller.ws/$repo/os/$arch
-# "Germany", Score = 2.054207753419288
-Server = rsync://mirror.fluxent.de/archlinux/$repo/os/$arch
-# "France", Score = 2.071444675693872
-Server = http://arch.yourlabs.org/$repo/os/$arch
-# "Hungary", Score = 2.086270259085385
-Server = http://archmirror.hbit.sztaki.hu/archlinux/$repo/os/$arch
-# "United States", Score = 2.098285597562745
-Server = rsync://mirror.us.leaseweb.net/archlinux/$repo/os/$arch
-# "Germany", Score = 2.1014104571502368
-Server = rsync://repo.itmettke.de/archlinux/$repo/os/$arch
-# "United States", Score = 2.1137682153197836
-Server = http://mirror.nexcess.net/archlinux/$repo/os/$arch
-# "United States", Score = 2.114554209587527
-Server = http://arlm.tyzoid.com/$repo/os/$arch
-# "Bosnia and Herzegovina", Score = 2.1315985831351165
-Server = http://burek.archlinux.ba/$repo/os/$arch
-# "Singapore", Score = 2.1404310850160764
-Server = http://download.nus.edu.sg/mirror/arch/$repo/os/$arch
-# "United States", Score = 2.1569237097944884
-Server = https://mirror.lty.me/archlinux/$repo/os/$arch
-# "Denmark", Score = 2.158249725551661
-Server = rsync://mirror.one.com/archlinux/$repo/os/$arch
-# "United States", Score = 2.162711617764579
-Server = http://mirror.math.princeton.edu/pub/archlinux/$repo/os/$arch
-# "Germany", Score = 2.1628913139465586
-Server = https://arch.32g.eu/$repo/os/$arch
-# "United Kingdom", Score = 2.166267503071867
-Server = rsync://mirror.bytemark.co.uk/archlinux/$repo/os/$arch
-# "France", Score = 2.1702236726858177
-Server = http://mirror.armbrust.me/archlinux/$repo/os/$arch
-# "France", Score = 2.1761425155593117
-Server = http://mirror.lastmikoi.net/archlinux/$repo/os/$arch
-# "Switzerland", Score = 2.185301955961858
-Server = http://archlinux.puzzle.ch/$repo/os/$arch
-# "Austria", Score = 2.186648490682523
-Server = http://mirror1.htu.tugraz.at/archlinux/$repo/os/$arch
-# "China", Score = 2.1870395821642963
-Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 2.2097318311039813
-Server = rsync://mirror.dkm.cz/archlinux/$repo/os/$arch
-# "France", Score = 2.2216084538115433
-Server = rsync://archlinux.de-labrusse.fr/archlinux/$repo/os/$arch
-# "Germany", Score = 2.2523200018003453
-Server = https://archlinux.nullpointer.io/$repo/os/$arch
-# "Germany", Score = 2.2638860846518196
-Server = http://archlinux.nullpointer.io/$repo/os/$arch
-# "Lithuania", Score = 2.271244542233868
-Server = http://mirrors.atviras.lt/archlinux/$repo/os/$arch
-# "China", Score = 2.284215050729992
-Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
-# "France", Score = 2.292386364117416
-Server = https://mirror.armbrust.me/archlinux/$repo/os/$arch
-# "Australia", Score = 2.3328981026464577
-Server = https://mirror.aarnet.edu.au/pub/archlinux/$repo/os/$arch
-# "Netherlands", Score = 2.346126983460955
-Server = http://mirror.i3d.net/pub/archlinux/$repo/os/$arch
-# "United States", Score = 2.350576586886557
-Server = http://il.us.mirror.archlinux-br.org/$repo/os/$arch
-# "United States", Score = 2.3524662355580532
-Server = rsync://mirror.umd.edu/archlinux/$repo/os/$arch
-# "Ukraine", Score = 2.35296338489202
-Server = https://archlinux.ip-connect.vn.ua/$repo/os/$arch
-# "Germany", Score = 2.355723334044029
-Server = rsync://rsync.spline.inf.fu-berlin.de/archlinux/$repo/os/$arch
-# "Sweden", Score = 2.3620381836318707
-Server = rsync://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
-# "Canada", Score = 2.366830297068415
-Server = rsync://mirror.frgl.pw/archlinux/$repo/os/$arch
-# "Lithuania", Score = 2.369934165487036
-Server = https://mirrors.atviras.lt/archlinux/$repo/os/$arch
-# "France", Score = 2.4047355112351
-Server = rsync://yourlabs.org/arch/$repo/os/$arch
-# "Netherlands", Score = 2.41297465535927
-Server = https://mirror.i3d.net/pub/archlinux/$repo/os/$arch
-# "United States", Score = 2.4263948956632664
-Server = rsync://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
-# "United States", Score = 2.4337916290645607
-Server = rsync://mirror.es.its.nyu.edu/archlinux/$repo/os/$arch
-# "United States", Score = 2.436299470825528
-Server = rsync://mirrors.rit.edu/archlinux/$repo/os/$arch
-# "Chile", Score = 2.4391856742470006
-Server = http://mirror.archlinux.cl/$repo/os/$arch
-# "Poland", Score = 2.4437104714533033
-Server = rsync://ftp.vectranet.pl/archlinux/$repo/os/$arch
-# "United States", Score = 2.444830555169837
-Server = http://mirror.yellowfiber.net/archlinux/$repo/os/$arch
-# "United States", Score = 2.469009148539908
-Server = http://mirror.htnshost.com/archlinux/$repo/os/$arch
-# "Hong Kong", Score = 2.497760005937541
-Server = http://arch-mirror.wtako.net/$repo/os/$arch
-# "France", Score = 2.5024137372580393
-Server = rsync://mirror.armbrust.me/archlinux/$repo/os/$arch
-# "United States", Score = 2.512822137946158
-Server = http://mirrors.advancedhosters.com/archlinux/$repo/os/$arch
-# "Vietnam", Score = 2.532953164683661
-Server = http://f.archlinuxvn.org/archlinux/$repo/os/$arch
-# "Germany", Score = 2.5524099390723376
-Server = https://mirror.michael-eckert.net/archlinux/$repo/os/$arch
-# "France", Score = 2.5596940413477087
-Server = rsync://mirror.lastmikoi.net/archlinux/$repo/os/$arch
-# "France", Score = 2.5641795000609786
-Server = http://mir.archlinux.fr/$repo/os/$arch
-# "Germany", Score = 2.570047526616994
-Server = http://mirror.michael-eckert.net/archlinux/$repo/os/$arch
-# "United States", Score = 2.582219819483037
-Server = http://ca.us.mirror.archlinux-br.org/$repo/os/$arch
-# "France", Score = 2.5879942606707695
-Server = https://archlinux.mirror.pkern.at/$repo/os/$arch
-# "South Africa", Score = 2.592375201828393
-Server = http://za.mirror.archlinux-br.org/$repo/os/$arch
-# "Germany", Score = 2.597673697543019
-Server = rsync://mirror.selfnet.de/archlinux/$repo/os/$arch
-# "South Africa", Score = 2.5996038805651014
-Server = http://mirror.is.co.za/mirror/archlinux.org/$repo/os/$arch
-# "Germany", Score = 2.5997646161246197
-Server = rsync://archlinux.honkgong.info/archlinux/$repo/os/$arch
-# "Russia", Score = 2.603014337665453
-Server = http://mirror.rol.ru/archlinux/$repo/os/$arch
-# "Macedonia", Score = 2.63395478779539
-Server = rsync://mirror.t-home.mk/archlinux/$repo/os/$arch
-# "United States", Score = 2.6782765047041974
-Server = http://mirror.vtti.vt.edu/archlinux/$repo/os/$arch
-# "Netherlands", Score = 2.6784961731977672
-Server = rsync://mirror.i3d.net/archlinux/$repo/os/$arch
-# "Latvia", Score = 2.6785281861912242
-Server = http://archlinux.koyanet.lv/archlinux/$repo/os/$arch
-# "Germany", Score = 2.6873707951977157
-Server = rsync://mirror.michael-eckert.net/archlinux/$repo/os/$arch
-# "United States", Score = 2.708830994487845
-Server = http://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
-# "Romania", Score = 2.7111975895780374
-Server = http://mirrors.m247.ro/archlinux/$repo/os/$arch
-# "Russia", Score = 2.7370510823876217
-Server = https://mirror.rol.ru/archlinux/$repo/os/$arch
-# "Lithuania", Score = 2.741245991514419
-Server = rsync://mirrors.atviras.lt/archlinux/$repo/os/$arch
-# "China", Score = 2.7418764551672345
-Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
-# "United States", Score = 2.763236715490714
-Server = http://mirrors.xmission.com/archlinux/$repo/os/$arch
-# "United States", Score = 2.79365655832399
-Server = https://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
-# "France", Score = 2.8390850148719515
-Server = rsync://archlinux.mirror.pkern.at/archlinux/$repo/os/$arch
-# "Indonesia", Score = 2.8460544728205166
-Server = http://suro.ubaya.ac.id/archlinux/$repo/os/$arch
-# "Taiwan", Score = 2.8476061110196746
-Server = http://ftp.tku.edu.tw/Linux/ArchLinux/$repo/os/$arch
-# "Poland", Score = 2.8806039008066673
-Server = http://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch
-# "China", Score = 2.8887543718832847
-Server = http://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
-# "United States", Score = 2.8914118557924238
-Server = http://mirror.grig.io/archlinux/$repo/os/$arch
-# "Canada", Score = 2.8986145450989405
-Server = rsync://archlinux.mirror.rafal.ca/archlinux/$repo/os/$arch
-# "United States", Score = 2.91311610394055
-Server = rsync://mirror.cc.columbia.edu/archlinux/$repo/os/$arch
-# "United States", Score = 2.9942677646805196
-Server = https://mirror.grig.io/archlinux/$repo/os/$arch
-# "New Zealand", Score = 3.0151968922250107
-Server = https://mirror.smith.geek.nz/archlinux/$repo/os/$arch
-# "Germany", Score = 3.054407729381826
-Server = http://ftp.hosteurope.de/mirror/ftp.archlinux.org/$repo/os/$arch
-# "Germany", Score = 3.083598913762829
-Server = http://archlinux.mirror.iphh.net/$repo/os/$arch
-# "France", Score = 3.0862114930808433
-Server = http://mirror.ibcp.fr/pub/archlinux/$repo/os/$arch
-# "", Score = 3.115201565828837
-Server = http://mirror.rackspace.com/archlinux/$repo/os/$arch
-# "United States", Score = 3.119680611732178
-Server = http://mirrors.gigenet.com/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 3.1429542013243363
-Server = http://ftp.linux.cz/pub/linux/arch/$repo/os/$arch
-# "Brazil", Score = 3.155004914956578
-Server = http://linorg.usp.br/archlinux/$repo/os/$arch
-# "United States", Score = 3.160142586247381
-Server = rsync://mirror.math.princeton.edu/pub/archlinux/$repo/os/$arch
-# "Poland", Score = 3.1717266006523848
-Server = rsync://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch
-# "France", Score = 3.1780421036911575
-Server = https://archlinux.ec-tech.fr/$repo/os/$arch
-# "South Korea", Score = 3.185261797197033
-Server = http://ftp.kaist.ac.kr/ArchLinux/$repo/os/$arch
-# "Slovakia", Score = 3.2094970191017618
-Server = http://tux.rainside.sk/archlinux/$repo/os/$arch
-# "Canada", Score = 3.211305750803269
-Server = http://muug.ca/mirror/archlinux/$repo/os/$arch
-# "Greece", Score = 3.2926258938859907
-Server = http://ftp.otenet.gr/linux/archlinux/$repo/os/$arch
-# "Italy", Score = 3.2934787640126935
-Server = rsync://archlinux.beccacervello.it/archlinux/$repo/os/$arch
-# "", Score = 3.2962686240191448
-Server = http://mirrors.evowise.com/archlinux/$repo/os/$arch
-# "Hong Kong", Score = 3.324189342679006
-Server = https://arch-mirror.wtako.net/$repo/os/$arch
-# "United States", Score = 3.34515792893985
-Server = rsync://mirrors.cat.pdx.edu/archlinux/$repo/os/$arch
-# "Germany", Score = 3.3522632926320104
-Server = rsync://ftp.hosteurope.de/archlinux/$repo/os/$arch
-# "Germany", Score = 3.360828656320652
-Server = rsync://archlinux.mirror.iphh.net/archlinux/$repo/os/$arch
-# "", Score = 3.385267948050184
-Server = rsync://mirror.rackspace.com/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 3.4071850533137025
-Server = http://ftp.fi.muni.cz/pub/linux/arch/$repo/os/$arch
-# "Brazil", Score = 3.420978198646925
-Server = http://archlinux.pop-es.rnp.br/$repo/os/$arch
-# "Canada", Score = 3.432737208892901
-Server = https://muug.ca/mirror/archlinux/$repo/os/$arch
-# "United States", Score = 3.4607018478621927
-Server = rsync://mirror.cs.pitt.edu/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 3.482334085981596
-Server = rsync://ftp.linux.cz/pub/linux/arch/$repo/os/$arch
-# "United States", Score = 3.4934041835410983
-Server = rsync://mirror.lty.me/archlinux/$repo/os/$arch
-# "Slovakia", Score = 3.5144032419878917
-Server = rsync://tux.rainside.sk/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 3.5935723612889605
-Server = http://www.mirrorservice.org/sites/ftp.archlinux.org/$repo/os/$arch
-# "Iran", Score = 3.60228580906431
-Server = rsync://repo.sadjad.ac.ir/arch/$repo/os/$arch
-# "Czech Republic", Score = 3.602288888739407
-Server = http://mirrors.nic.cz/archlinux/$repo/os/$arch
-# "Netherlands", Score = 3.682108009876648
-Server = rsync://mirror.netrouting.net/archlinux/$repo/os/$arch
-# "United States", Score = 3.697837639013384
-Server = rsync://mirror.as65535.net/archlinux/$repo/os/$arch
-# "Greece", Score = 3.7061555027981155
-Server = http://ftp.cc.uoc.gr/mirrors/linux/archlinux/$repo/os/$arch
-# "Ecuador", Score = 3.7099161256194146
-Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
-# "United States", Score = 3.7250335449443703
-Server = http://cosmos.cites.illinois.edu/pub/archlinux/$repo/os/$arch
-# "Romania", Score = 3.7382529949465866
-Server = rsync://mirrors.m247.ro/archlinux/$repo/os/$arch
-# "Netherlands", Score = 3.7616925845359686
-Server = http://mirror.netrouting.net/archlinux/$repo/os/$arch
-# "Singapore", Score = 3.7643547422191075
-Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
-# "Norway", Score = 3.774789449478224
-Server = http://archlinux.uib.no/$repo/os/$arch
-# "Netherlands", Score = 3.783788223242388
-Server = http://arch.apt-get.eu/$repo/os/$arch
-# "Latvia", Score = 3.784954641163659
-Server = rsync://archlinux.koyanet.lv/archlinux/$repo/os/$arch
-# "Australia", Score = 3.819931182671285
-Server = http://archlinux.uberglobalmirror.com/$repo/os/$arch
-# "South Korea", Score = 3.8456763945634855
-Server = http://mirror.premi.st/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 3.8621922831811117
-Server = rsync://ftp.fi.muni.cz/pub/linux/arch/$repo/os/$arch
-# "United States", Score = 3.894716511440756
-Server = rsync://mirror.grig.io/archlinux/$repo/os/$arch
-# "Colombia", Score = 3.915189207826269
-Server = http://mirror.upb.edu.co/archlinux/$repo/os/$arch
-# "United States", Score = 3.917534340263152
-Server = http://www.gtlib.gatech.edu/pub/archlinux/$repo/os/$arch
-# "Greece", Score = 3.923175726609088
-Server = http://ftp.ntua.gr/pub/linux/archlinux/$repo/os/$arch
-# "Italy", Score = 3.9259744340950196
-Server = http://mirrors.prometeus.net/archlinux/$repo/os/$arch
-# "United States", Score = 3.968859337021129
-Server = rsync://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
-# "Turkey", Score = 3.973106718864733
-Server = http://ftp.linux.org.tr/archlinux/$repo/os/$arch
-# "Czech Republic", Score = 3.9740141962203674
-Server = rsync://mirrors.nic.cz/archlinux/$repo/os/$arch
-# "United States", Score = 3.9765627386569813
-Server = rsync://mirrors.advancedhosters.com/archlinux/$repo/os/$arch
-# "France", Score = 4.001972370410449
-Server = https://mirror.wormhole.eu/archlinux/$repo/os/$arch
-# "Iran", Score = 4.0080129620913905
-Server = https://repo.sadjad.ac.ir/arch/$repo/os/$arch
-# "China", Score = 4.0154878839645525
-Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 4.146119687038714
-Server = http://arch.serverspace.co.uk/arch/$repo/os/$arch
-# "Ireland", Score = 4.404404506443292
-Server = https://ftp.heanet.ie/mirrors/ftp.archlinux.org/$repo/os/$arch
-# "United Kingdom", Score = 4.406816462934483
-Server = rsync://rsync.mirrorservice.org/ftp.archlinux.org/$repo/os/$arch
-# "United States", Score = 4.4490555431675896
-Server = http://mirrors.liquidweb.com/archlinux/$repo/os/$arch
-# "United Kingdom", Score = 4.4818042029506
-Server = rsync://arch.serverspace.co.uk/Arch/$repo/os/$arch
-# "Ireland", Score = 4.49121152461627
-Server = http://ftp.heanet.ie/mirrors/ftp.archlinux.org/$repo/os/$arch
-# "Brazil", Score = 4.493693584305314
-Server = http://pet.inf.ufsc.br/mirrors/archlinux/$repo/os/$arch
-# "United States", Score = 4.512559705436133
-Server = http://mirror.metrocast.net/archlinux/$repo/os/$arch
-# "Greece", Score = 4.677539534245719
-Server = rsync://ftp.ntua.gr/archlinux/$repo/os/$arch
-# "Romania", Score = 4.682253052519312
-Server = http://mirror.archlinux.ro/archlinux/$repo/os/$arch
-# "Germany", Score = 4.730690139148621
-Server = http://linux.rz.rub.de/archlinux/$repo/os/$arch
-# "Germany", Score = 4.752641912981373
-Server = http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
-# "United States", Score = 4.9351589341835
-Server = http://mirror3.hackingand.coffee/arch/$repo/os/$arch
-# "United States", Score = 4.939087943132419
-Server = http://mirror2.hackingand.coffee/arch/$repo/os/$arch
-# "United States", Score = 4.987697388627146
-Server = http://mirror1.hackingand.coffee/arch/$repo/os/$arch
-# "United States", Score = 5.018936887300958
-Server = http://mirrors.aggregate.org/archlinux/$repo/os/$arch
-# "Germany", Score = 5.019906609395297
-Server = rsync://ftp-stud.hs-esslingen.de/archlinux/$repo/os/$arch
-# "Ecuador", Score = 5.033509434424851
-Server = http://mirror.uta.edu.ec/archlinux/$repo/os/$arch
-# "Australia", Score = 5.083778303744848
-Server = http://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch
-# "India", Score = 5.290614766040078
-Server = http://mirror.cse.iitk.ac.in/archlinux/$repo/os/$arch
-# "Austria", Score = 5.348673518119934
-Server = http://mirror.digitalnova.at/archlinux/$repo/os/$arch
-# "China", Score = 5.510328681649056
-Server = http://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
-# "Italy", Score = 5.5106141913985285
-Server = http://mi.mirror.garr.it/mirrors/archlinux/$repo/os/$arch
-# "Italy", Score = 5.5428939486526945
-Server = http://archlinux.students.cs.unibo.it/$repo/os/$arch
-# "France", Score = 5.96345139931494
-Server = http://mirror.gerhard.re/archlinux/$repo/os/$arch
-# "France", Score = 6.01154199505328
-Server = http://archlinux.mirrors.ovh.net/archlinux/$repo/os/$arch
-# "Ecuador", Score = 6.146285236259118
-Server = http://mirror.espoch.edu.ec/archlinux/$repo/os/$arch
-# "Italy", Score = 6.178544937117869
-Server = rsync://mi.mirror.garr.it/archlinux/$repo/os/$arch
-# "United States", Score = 6.19676230251365
-Server = rsync://mirrors.liquidweb.com/archlinux/$repo/os/$arch
-# "United States", Score = 6.232673279505611
-Server = http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
-# "France", Score = 6.383400809136621
-Server = rsync://mirror.gerhard.re/archlinux/$repo/os/$arch
-# "United States", Score = 6.501225733116466
-Server = rsync://mirror3.hackingand.coffee/arch/$repo/os/$arch
-# "United States", Score = 6.514908450747823
-Server = rsync://mirror2.hackingand.coffee/arch/$repo/os/$arch
-# "United States", Score = 6.5409577231207905
-Server = rsync://mirror1.hackingand.coffee/arch/$repo/os/$arch
-# "Australia", Score = 6.545498637789796
-Server = http://ftp.iinet.net.au/pub/archlinux/$repo/os/$arch
-# "Kazakhstan", Score = 6.630446875013013
-Server = http://mirror.neolabs.kz/archlinux/$repo/os/$arch
-# "Bulgaria", Score = 6.961781858916654
-Server = http://mirrors.netix.net/archlinux/$repo/os/$arch
-# "Canada", Score = 6.9626890341354715
-Server = http://mirror.its.dal.ca/archlinux/$repo/os/$arch
-# "Ukraine", Score = 7.053566889397869
-Server = https://mirrors.nix.org.ua/linux/archlinux/$repo/os/$arch
-# "Philippines", Score = 7.120731599072742
-Server = http://mirror.rise.ph/archlinux/$repo/os/$arch
-# "Ukraine", Score = 7.1257332572418735
-Server = http://mirrors.nix.org.ua/linux/archlinux/$repo/os/$arch
-# "Thailand", Score = 7.297616813888649
-Server = http://mirror.kku.ac.th/archlinux/$repo/os/$arch
-# "Bulgaria", Score = 7.555802528158361
-Server = rsync://mirrors.netix.net/archlinux/$repo/os/$arch
-# "Thailand", Score = 7.577197511438793
-Server = https://mirror.kku.ac.th/archlinux/$repo/os/$arch
-# "United States", Score = 7.8653406934990375
-Server = http://mirror.cs.vt.edu/pub/ArchLinux/$repo/os/$arch
-# "Kazakhstan", Score = 7.931808060833785
-Server = rsync://mirror.neolabs.kz/archlinux/$repo/os/$arch
-# "Serbia", Score = 8.169826266278463
-Server = http://mirror.pmf.kg.ac.rs/archlinux/$repo/os/$arch
-# "Spain", Score = 8.40620688492023
-Server = http://sunsite.rediris.es/mirror/archlinux/$repo/os/$arch
-# "Colombia", Score = 8.4227591756096
-Server = http://mirror.edatel.net.co/archlinux/$repo/os/$arch
-# "Germany", Score = 8.62537692220373
-Server = http://www.gutscheindrache.com/mirror/archlinux/$repo/os/$arch
-# "Germany", Score = 8.634425381595554
-Server = https://www.ratenzahlung.de/mirror/archlinux/$repo/os/$arch
-# "Ukraine", Score = 9.210259731608597
-Server = rsync://mirrors.nix.org.ua/archlinux/$repo/os/$arch
-# "United States", Score = 9.251896359240455
-Server = http://arch.mirrors.pair.com/$repo/os/$arch
-# "Greece", Score = 9.574960152565192
-Server = http://mirrors.myaegean.gr/linux/archlinux/$repo/os/$arch
-# "Germany", Score = 12.063400163386218
-Server = http://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
-# "Poland", Score = 12.204941559952548
-Server = http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
-# "Denmark", Score = 12.535360456393526
-Server = http://ftp.klid.dk/ftp/archlinux/$repo/os/$arch
-# "France", Score = 12.54302098322549
-Server = http://mirrors.standaloneinstaller.com/archlinux/$repo/os/$arch
-# "France", Score = 12.784931284473739
-Server = rsync://mirrors.standaloneinstaller.com/archlinux/$repo/os/$arch
-# "Germany", Score = 12.923771759862262
-Server = http://ftp.uni-kl.de/pub/linux/archlinux/$repo/os/$arch
-# "Poland", Score = 12.948337902917219
-Server = rsync://rsync.piotrkosoft.net/archlinux/$repo/os/$arch
-# "Germany", Score = 13.008822735574544
-Server = http://ftp.tu-chemnitz.de/pub/linux/archlinux/$repo/os/$arch
-# "Denmark", Score = 13.11512085877376
-Server = rsync://ftp.klid.dk/archlinux/$repo/os/$arch
-# "Thailand", Score = 13.345927323819419
-Server = http://mirror.adminbannok.com/archlinux/$repo/os/$arch
-# "China", Score = 14.459923884710268
-Server = http://mirrors.163.com/archlinux/$repo/os/$arch
-# "Germany", Score = 14.486883127027237
-Server = rsync://ftp.uni-kl.de/pub/linux/archlinux/$repo/os/$arch
-# "France", Score = 14.586418888918848
-Server = http://mirror.archlinux.ikoula.com/archlinux/$repo/os/$arch
-# "Austria", Score = 14.701996838284071
-Server = http://mirror.easyname.at/archlinux/$repo/os/$arch
-# "Slovakia", Score = 14.826138459372157
-Server = http://mirror.lnx.sk/pub/linux/archlinux/$repo/os/$arch
-# "Slovakia", Score = 14.86797495589417
-Server = https://mirror.lnx.sk/pub/linux/archlinux/$repo/os/$arch
-# "Germany", Score = 14.908664737713723
-Server = http://artfiles.org/archlinux.org/$repo/os/$arch
-# "Austria", Score = 15.096364513788226
-Server = rsync://mirror.easyname.at/archlinux/$repo/os/$arch
-# "Spain", Score = 15.33276863074641
-Server = http://osl.ugr.es/archlinux/$repo/os/$arch
-# "New Caledonia", Score = 17.002673456853618
-Server = http://mirror.lagoon.nc/pub/archlinux/$repo/os/$arch
-# "New Caledonia", Score = 18.29662684250985
-Server = http://archlinux.nautile.nc/archlinux/$repo/os/$arch
+## Worldwide
+#Server = https://archlinux.surlyjake.com/archlinux/$repo/os/$arch
+#Server = http://mirrors.evowise.com/archlinux/$repo/os/$arch
+#Server = http://mirror.rackspace.com/archlinux/$repo/os/$arch
+
+## Australia
+#Server = https://mirror.aarnet.edu.au/pub/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.digitalpacific.com.au/$repo/os/$arch
+#Server = http://ftp.iinet.net.au/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.internode.on.net/pub/archlinux/$repo/os/$arch
+#Server = http://ftp.swin.edu.au/archlinux/$repo/os/$arch
+#Server = http://archlinux.uberglobalmirror.com/$repo/os/$arch
+
+## Austria
+#Server = http://mirror.digitalnova.at/archlinux/$repo/os/$arch
+#Server = http://mirror.easyname.at/archlinux/$repo/os/$arch
+#Server = http://mirror1.htu.tugraz.at/archlinux/$repo/os/$arch
+
+## Belarus
+#Server = http://ftp.byfly.by/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.datacenter.by/pub/archlinux/$repo/os/$arch
+
+## Belgium
+#Server = http://archlinux.cu.be/$repo/os/$arch
+#Server = http://archlinux.mirror.kangaroot.net/$repo/os/$arch
+
+## Bosnia and Herzegovina
+#Server = http://burek.archlinux.ba/$repo/os/$arch
+#Server = http://archlinux.mirror.ba/$repo/os/$arch
+
+## Brazil
+#Server = http://br.mirror.archlinux-br.org/$repo/os/$arch
+#Server = http://archlinux.c3sl.ufpr.br/$repo/os/$arch
+#Server = http://linorg.usp.br/archlinux/$repo/os/$arch
+#Server = http://pet.inf.ufsc.br/mirrors/archlinux/$repo/os/$arch
+#Server = http://archlinux.pop-es.rnp.br/$repo/os/$arch
+
+## Bulgaria
+#Server = http://mirror.host.ag/archlinux/$repo/os/$arch
+#Server = http://mirrors.netix.net/archlinux/$repo/os/$arch
+#Server = http://mirror.telepoint.bg/archlinux/$repo/os/$arch
+#Server = http://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
+#Server = https://mirrors.uni-plovdiv.net/archlinux/$repo/os/$arch
+
+## Canada
+#Server = http://mirror.cedille.club/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.colo-serv.net/$repo/os/$arch
+#Server = http://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
+#Server = https://mirror.csclub.uwaterloo.ca/archlinux/$repo/os/$arch
+#Server = http://mirror.frgl.pw/archlinux/$repo/os/$arch
+#Server = https://mirror.frgl.pw/archlinux/$repo/os/$arch
+#Server = http://mirror.its.dal.ca/archlinux/$repo/os/$arch
+#Server = http://muug.ca/mirror/archlinux/$repo/os/$arch
+#Server = https://muug.ca/mirror/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.rafal.ca/$repo/os/$arch
+
+## Chile
+#Server = http://mirror.archlinux.cl/$repo/os/$arch
+
+## China
+#Server = http://mirrors.163.com/archlinux/$repo/os/$arch
+#Server = http://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch
+#Server = http://mirror.lzu.edu.cn/archlinux/$repo/os/$arch
+#Server = http://mirrors.neusoft.edu.cn/archlinux/$repo/os/$arch
+#Server = https://mirrors.skyshe.cn/archlinux/$repo/os/$arch
+#Server = http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+#Server = https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch
+#Server = http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+#Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+#Server = http://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
+#Server = https://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch
+#Server = http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch
+
+## Colombia
+#Server = http://mirror.edatel.net.co/archlinux/$repo/os/$arch
+#Server = http://mirror.upb.edu.co/archlinux/$repo/os/$arch
+
+## Croatia
+#Server = http://archlinux.iskon.hr/$repo/os/$arch
+
+## Czech Republic
+#Server = http://mirror.dkm.cz/archlinux/$repo/os/$arch
+#Server = https://mirror.dkm.cz/archlinux/$repo/os/$arch
+#Server = http://ftp.fi.muni.cz/pub/linux/arch/$repo/os/$arch
+#Server = http://ftp.linux.cz/pub/linux/arch/$repo/os/$arch
+#Server = http://gluttony.sin.cvut.cz/arch/$repo/os/$arch
+#Server = https://gluttony.sin.cvut.cz/arch/$repo/os/$arch
+#Server = http://mirrors.nic.cz/archlinux/$repo/os/$arch
+#Server = http://ftp.sh.cvut.cz/arch/$repo/os/$arch
+#Server = https://ftp.sh.cvut.cz/arch/$repo/os/$arch
+#Server = http://mirror.vpsfree.cz/archlinux/$repo/os/$arch
+
+## Denmark
+#Server = http://mirrors.dotsrc.org/archlinux/$repo/os/$arch
+#Server = https://mirrors.dotsrc.org/archlinux/$repo/os/$arch
+#Server = http://ftp.klid.dk/ftp/archlinux/$repo/os/$arch
+#Server = http://mirror.one.com/archlinux/$repo/os/$arch
+#Server = https://mirror.one.com/archlinux/$repo/os/$arch
+
+## Ecuador
+#Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
+#Server = http://mirror.espoch.edu.ec/archlinux/$repo/os/$arch
+#Server = http://mirror.uta.edu.ec/archlinux/$repo/os/$arch
+
+## Finland
+#Server = http://arch.mirror.far.fi/$repo/os/$arch
+
+## France
+#Server = http://archlinux.de-labrusse.fr/$repo/os/$arch
+#Server = http://mirror.archlinux.ikoula.com/archlinux/$repo/os/$arch
+#Server = http://archlinux.vi-di.fr/$repo/os/$arch
+#Server = https://archlinux.vi-di.fr/$repo/os/$arch
+#Server = http://mirror.armbrust.me/archlinux/$repo/os/$arch
+#Server = https://mirror.armbrust.me/archlinux/$repo/os/$arch
+#Server = https://archlinux.ec-tech.fr/$repo/os/$arch
+#Server = http://fooo.biz/archlinux/$repo/os/$arch
+#Server = https://fooo.biz/archlinux/$repo/os/$arch
+#Server = http://mirror.gerhard.re/archlinux/$repo/os/$arch
+#Server = http://mirror.ibcp.fr/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.lastmikoi.net/archlinux/$repo/os/$arch
+#Server = http://archlinux.mailtunnel.eu/$repo/os/$arch
+#Server = https://www.mailtunnel.eu/archlinux/$repo/os/$arch
+#Server = http://mir.archlinux.fr/$repo/os/$arch
+#Server = http://arch.nimukaito.net/$repo/os/$arch
+#Server = https://arch.nimukaito.net/$repo/os/$arch
+#Server = http://archlinux.mirrors.ovh.net/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.pkern.at/$repo/os/$arch
+#Server = https://archlinux.mirror.pkern.at/$repo/os/$arch
+#Server = http://archlinux.polymorf.fr/$repo/os/$arch
+#Server = http://mirrors.standaloneinstaller.com/archlinux/$repo/os/$arch
+#Server = http://arch.static.lu/$repo/os/$arch
+#Server = http://arch.tamcore.eu/$repo/os/$arch
+#Server = http://mirrors.theblazehen.com/archlinux/$repo/os/$arch
+#Server = http://mirror.tyborek.pl/arch/$repo/os/$arch
+#Server = https://mirror.tyborek.pl/arch/$repo/os/$arch
+#Server = http://ftp.u-strasbg.fr/linux/distributions/archlinux/$repo/os/$arch
+#Server = https://mirror.wormhole.eu/archlinux/$repo/os/$arch
+#Server = http://arch.yourlabs.org/$repo/os/$arch
+
+## Germany
+#Server = http://mirror.23media.de/archlinux/$repo/os/$arch
+#Server = https://arch.32g.eu/$repo/os/$arch
+#Server = http://artfiles.org/archlinux.org/$repo/os/$arch
+#Server = https://fabric-mirror.vps.hosteurope.de/archlinux/$repo/os/$arch
+#Server = https://mirror.bethselamin.de/$repo/os/$arch
+#Server = http://mirrors.cicku.me/archlinux/$repo/os/$arch
+#Server = https://mirrors.cicku.me/archlinux/$repo/os/$arch
+#Server = http://mirror.euserv.net/linux/archlinux/$repo/os/$arch
+#Server = http://mirror.f4st.host/archlinux/$repo/os/$arch
+#Server = https://mirror.f4st.host/archlinux/$repo/os/$arch
+#Server = http://ftp.fau.de/archlinux/$repo/os/$arch
+#Server = https://ftp.fau.de/archlinux/$repo/os/$arch
+#Server = http://mirror.fluxent.de/archlinux/$repo/os/$arch
+#Server = https://mirror.fluxent.de/archlinux/$repo/os/$arch
+#Server = http://mirror.gnomus.de/$repo/os/$arch
+#Server = http://www.gutscheindrache.com/mirror/archlinux/$repo/os/$arch
+#Server = http://ftp.gwdg.de/pub/linux/archlinux/$repo/os/$arch
+#Server = http://mirror.hactar.xyz/$repo/os/$arch
+#Server = https://mirror.hactar.xyz/$repo/os/$arch
+#Server = http://archlinux.honkgong.info/$repo/os/$arch
+#Server = http://ftp.hosteurope.de/mirror/ftp.archlinux.org/$repo/os/$arch
+#Server = http://ftp-stud.hs-esslingen.de/pub/Mirrors/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.iphh.net/$repo/os/$arch
+#Server = http://repo.itmettke.de/archlinux/$repo/os/$arch
+#Server = https://repo.itmettke.de/archlinux/$repo/os/$arch
+#Server = https://mirror.jankoppe.de/$repo/os/$arch
+#Server = http://arch.jensgutermuth.de/$repo/os/$arch
+#Server = https://arch.jensgutermuth.de/$repo/os/$arch
+#Server = http://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
+#Server = https://mirror.js-webcoding.de/pub/archlinux/$repo/os/$arch
+#Server = http://k42.ch/mirror/archlinux/$repo/os/$arch
+#Server = https://k42.ch/mirror/archlinux/$repo/os/$arch
+#Server = http://mirror.de.leaseweb.net/archlinux/$repo/os/$arch
+#Server = https://mirror.de.leaseweb.net/archlinux/$repo/os/$arch
+#Server = http://mirror.loli.forsale/arch/$repo/os/$arch
+#Server = https://mirror.loli.forsale/arch/$repo/os/$arch
+#Server = http://mirror.metalgamer.eu/archlinux/$repo/os/$arch
+#Server = https://mirror.metalgamer.eu/archlinux/$repo/os/$arch
+#Server = http://mirror.michael-eckert.net/archlinux/$repo/os/$arch
+#Server = https://mirror.michael-eckert.net/archlinux/$repo/os/$arch
+#Server = http://mirrors.n-ix.net/archlinux/$repo/os/$arch
+#Server = https://mirrors.n-ix.net/archlinux/$repo/os/$arch
+#Server = http://mirror.netcologne.de/archlinux/$repo/os/$arch
+#Server = https://mirror.netcologne.de/archlinux/$repo/os/$arch
+#Server = http://mirrors.niyawe.de/archlinux/$repo/os/$arch
+#Server = https://mirrors.niyawe.de/archlinux/$repo/os/$arch
+#Server = http://archlinux.nullpointer.io/$repo/os/$arch
+#Server = https://archlinux.nullpointer.io/$repo/os/$arch
+#Server = http://mirror.pseudoform.org/$repo/os/$arch
+#Server = https://mirror.pseudoform.org/$repo/os/$arch
+#Server = https://www.ratenzahlung.de/mirror/archlinux/$repo/os/$arch
+#Server = http://ftp.halifax.rwth-aachen.de/archlinux/$repo/os/$arch
+#Server = http://linux.rz.rub.de/archlinux/$repo/os/$arch
+#Server = http://mirror.selfnet.de/archlinux/$repo/os/$arch
+#Server = http://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/$repo/os/$arch
+#Server = https://ftp.spline.inf.fu-berlin.de/mirrors/archlinux/$repo/os/$arch
+#Server = http://archlinux.thaller.ws/$repo/os/$arch
+#Server = https://archlinux.thaller.ws/$repo/os/$arch
+#Server = http://archlinux.thelinuxnetworx.rocks/$repo/os/$arch
+#Server = https://archlinux.thelinuxnetworx.rocks/$repo/os/$arch
+#Server = http://archmirror.tomforb.es/$repo/os/$arch
+#Server = https://archmirror.tomforb.es/$repo/os/$arch
+#Server = http://ftp.tu-chemnitz.de/pub/linux/archlinux/$repo/os/$arch
+#Server = http://mirror.ubrco.de/archlinux/$repo/os/$arch
+#Server = https://mirror.ubrco.de/archlinux/$repo/os/$arch
+#Server = http://ftp.uni-bayreuth.de/linux/archlinux/$repo/os/$arch
+#Server = http://ftp.uni-hannover.de/archlinux/$repo/os/$arch
+#Server = http://ftp.uni-kl.de/pub/linux/archlinux/$repo/os/$arch
+#Server = http://mirror.united-gameserver.de/archlinux/$repo/os/$arch
+#Server = http://mirror.vfn-nrw.de/archlinux/$repo/os/$arch
+#Server = https://mirror.vfn-nrw.de/archlinux/$repo/os/$arch
+
+## Greece
+#Server = http://ftp.cc.uoc.gr/mirrors/linux/archlinux/$repo/os/$arch
+#Server = http://foss.aueb.gr/mirrors/linux/archlinux/$repo/os/$arch
+#Server = https://foss.aueb.gr/mirrors/linux/archlinux/$repo/os/$arch
+#Server = http://mirrors.myaegean.gr/linux/archlinux/$repo/os/$arch
+#Server = http://ftp.ntua.gr/pub/linux/archlinux/$repo/os/$arch
+#Server = http://ftp.otenet.gr/linux/archlinux/$repo/os/$arch
+
+## Hong Kong
+#Server = http://arch-mirror.wtako.net/$repo/os/$arch
+#Server = https://arch-mirror.wtako.net/$repo/os/$arch
+
+## Hungary
+#Server = http://ftp.energia.mta.hu/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
+#Server = http://archmirror.hbit.sztaki.hu/archlinux/$repo/os/$arch
+
+## Iceland
+#Server = http://mirror.system.is/arch/$repo/os/$arch
+#Server = https://mirror.system.is/arch/$repo/os/$arch
+
+## India
+#Server = http://mirror.cse.iitk.ac.in/archlinux/$repo/os/$arch
+#Server = http://ftp.iitm.ac.in/archlinux/$repo/os/$arch
+
+## Indonesia
+#Server = http://mirror.devilzc0de.org/archlinux/$repo/os/$arch
+#Server = http://mirror.kavalinux.com/archlinux/$repo/os/$arch
+#Server = http://mirror.poliwangi.ac.id/archlinux/$repo/os/$arch
+#Server = http://suro.ubaya.ac.id/archlinux/$repo/os/$arch
+
+## Iran
+#Server = http://repo.sadjad.ac.ir/arch/$repo/os/$arch
+#Server = https://repo.sadjad.ac.ir/arch/$repo/os/$arch
+
+## Ireland
+#Server = http://ftp.heanet.ie/mirrors/ftp.archlinux.org/$repo/os/$arch
+#Server = https://ftp.heanet.ie/mirrors/ftp.archlinux.org/$repo/os/$arch
+
+## Israel
+#Server = http://mirror.isoc.org.il/pub/archlinux/$repo/os/$arch
+
+## Italy
+#Server = http://archlinux.prometeolibero.eu/archlinux/$repo/os/$arch
+#Server = https://archlinux.prometeolibero.eu/archlinux/$repo/os/$arch
+#Server = https://archlinux.beccacervello.it/archlinux/$repo/os/$arch
+#Server = http://mi.mirror.garr.it/mirrors/archlinux/$repo/os/$arch
+#Server = http://mirrors.prometeus.net/archlinux/$repo/os/$arch
+#Server = http://archlinux.students.cs.unibo.it/$repo/os/$arch
+
+## Japan
+#Server = http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/$repo/os/$arch
+#Server = http://ftp.jaist.ac.jp/pub/Linux/ArchLinux/$repo/os/$arch
+
+## Kazakhstan
+#Server = http://mirror.neolabs.kz/archlinux/$repo/os/$arch
+
+## Latvia
+#Server = http://archlinux.koyanet.lv/archlinux/$repo/os/$arch
+
+## Lithuania
+#Server = http://mirrors.atviras.lt/archlinux/$repo/os/$arch
+#Server = https://mirrors.atviras.lt/archlinux/$repo/os/$arch
+
+## Luxembourg
+#Server = http://archlinux.mirror.root.lu/$repo/os/$arch
+
+## Macedonia
+#Server = http://arch.softver.org.mk/archlinux/$repo/os/$arch
+#Server = http://mirror.t-home.mk/archlinux/$repo/os/$arch
+#Server = https://mirror.t-home.mk/archlinux/$repo/os/$arch
+
+## Netherlands
+#Server = http://arch.apt-get.eu/$repo/os/$arch
+#Server = http://mirror.i3d.net/pub/archlinux/$repo/os/$arch
+#Server = https://mirror.i3d.net/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.nl.leaseweb.net/archlinux/$repo/os/$arch
+#Server = https://mirror.nl.leaseweb.net/archlinux/$repo/os/$arch
+#Server = http://mirror.netrouting.net/archlinux/$repo/os/$arch
+#Server = http://ftp.nluug.nl/os/Linux/distr/archlinux/$repo/os/$arch
+#Server = http://ftp.snt.utwente.nl/pub/os/linux/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirror.wearetriple.com/$repo/os/$arch
+#Server = https://archlinux.mirror.wearetriple.com/$repo/os/$arch
+
+## New Caledonia
+#Server = http://mirror.lagoon.nc/pub/archlinux/$repo/os/$arch
+#Server = http://archlinux.nautile.nc/archlinux/$repo/os/$arch
+
+## New Zealand
+#Server = https://mirror.smith.geek.nz/archlinux/$repo/os/$arch
+
+## Norway
+#Server = http://mirror.archlinux.no/$repo/os/$arch
+#Server = http://archlinux.uib.no/$repo/os/$arch
+#Server = http://mirror.neuf.no/archlinux/$repo/os/$arch
+#Server = https://mirror.neuf.no/archlinux/$repo/os/$arch
+
+## Philippines
+#Server = http://mirror.rise.ph/archlinux/$repo/os/$arch
+
+## Poland
+#Server = http://mirror.chmuri.net/archmirror/$repo/os/$arch
+#Server = http://arch.midov.pl/arch/$repo/os/$arch
+#Server = http://mirror.onet.pl/pub/mirrors/archlinux/$repo/os/$arch
+#Server = http://piotrkosoft.net/pub/mirrors/ftp.archlinux.org/$repo/os/$arch
+#Server = http://ftp.vectranet.pl/archlinux/$repo/os/$arch
+
+## Portugal
+#Server = http://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/$repo/os/$arch
+
+## Qatar
+#Server = http://mirror.qnren.qa/archlinux/$repo/os/$arch
+
+## Romania
+#Server = http://mirror.archlinux.ro/archlinux/$repo/os/$arch
+#Server = http://archlinux.mirrors.linux.ro/$repo/os/$arch
+#Server = http://mirrors.m247.ro/archlinux/$repo/os/$arch
+#Server = http://mirrors.pidginhost.com/arch/$repo/os/$arch
+
+## Russia
+#Server = http://mirror.aur.rocks/$repo/os/$arch
+#Server = https://mirror.aur.rocks/$repo/os/$arch
+#Server = http://mirror.rol.ru/archlinux/$repo/os/$arch
+#Server = https://mirror.rol.ru/archlinux/$repo/os/$arch
+#Server = http://mirror.yandex.ru/archlinux/$repo/os/$arch
+#Server = https://mirror.yandex.ru/archlinux/$repo/os/$arch
+
+## Serbia
+#Server = http://mirror.pmf.kg.ac.rs/archlinux/$repo/os/$arch
+
+## Singapore
+#Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
+#Server = http://download.nus.edu.sg/mirror/arch/$repo/os/$arch
+
+## Slovakia
+#Server = http://mirror.lnx.sk/pub/linux/archlinux/$repo/os/$arch
+#Server = https://mirror.lnx.sk/pub/linux/archlinux/$repo/os/$arch
+#Server = http://tux.rainside.sk/archlinux/$repo/os/$arch
+
+## Slovenia
+#Server = http://archimonde.ts.si/archlinux/$repo/os/$arch
+#Server = https://archimonde.ts.si/archlinux/$repo/os/$arch
+
+## South Africa
+#Server = http://za.mirror.archlinux-br.org/$repo/os/$arch
+#Server = http://ftp.wa.co.za/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.is.co.za/mirror/archlinux.org/$repo/os/$arch
+#Server = http://mirror.wbs.co.za/archlinux/$repo/os/$arch
+
+## South Korea
+#Server = http://ftp.kaist.ac.kr/ArchLinux/$repo/os/$arch
+#Server = http://mirror.premi.st/archlinux/$repo/os/$arch
+
+## Spain
+#Server = http://osl.ugr.es/archlinux/$repo/os/$arch
+#Server = http://sunsite.rediris.es/mirror/archlinux/$repo/os/$arch
+
+## Sweden
+#Server = http://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
+#Server = https://ftp.acc.umu.se/mirror/archlinux/$repo/os/$arch
+#Server = http://archlinux.dynamict.se/$repo/os/$arch
+#Server = https://archlinux.dynamict.se/$repo/os/$arch
+#Server = http://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
+#Server = https://ftp.lysator.liu.se/pub/archlinux/$repo/os/$arch
+#Server = http://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
+#Server = https://ftp.myrveln.se/pub/linux/archlinux/$repo/os/$arch
+#Server = https://mirror.osbeck.com/archlinux/$repo/os/$arch
+#Server = http://ftp.portlane.com/pub/os/linux/archlinux/$repo/os/$arch
+
+## Switzerland
+#Server = http://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+#Server = https://pkg.adfinis-sygroup.ch/archlinux/$repo/os/$arch
+#Server = http://archlinux.puzzle.ch/$repo/os/$arch
+
+## Taiwan
+#Server = http://archlinux.cs.nctu.edu.tw/$repo/os/$arch
+#Server = http://shadow.ind.ntou.edu.tw/archlinux/$repo/os/$arch
+#Server = http://ftp.tku.edu.tw/Linux/ArchLinux/$repo/os/$arch
+#Server = http://ftp.yzu.edu.tw/Linux/archlinux/$repo/os/$arch
+
+## Thailand
+#Server = http://mirror.adminbannok.com/archlinux/$repo/os/$arch
+#Server = http://mirror.kku.ac.th/archlinux/$repo/os/$arch
+#Server = https://mirror.kku.ac.th/archlinux/$repo/os/$arch
+
+## Turkey
+#Server = http://ftp.linux.org.tr/archlinux/$repo/os/$arch
+
+## Ukraine
+#Server = http://archlinux.ip-connect.vn.ua/$repo/os/$arch
+#Server = https://archlinux.ip-connect.vn.ua/$repo/os/$arch
+#Server = http://mirrors.nix.org.ua/linux/archlinux/$repo/os/$arch
+#Server = https://mirrors.nix.org.ua/linux/archlinux/$repo/os/$arch
+
+## United Kingdom
+#Server = http://mirror.bytemark.co.uk/archlinux/$repo/os/$arch
+#Server = http://mirrors.manchester.m247.com/arch-linux/$repo/os/$arch
+#Server = http://www.mirrorservice.org/sites/ftp.archlinux.org/$repo/os/$arch
+#Server = http://arch.serverspace.co.uk/arch/$repo/os/$arch
+#Server = http://archlinux.mirrors.uk2.net/$repo/os/$arch
+
+## United States
+#Server = http://mirrors.acm.wpi.edu/archlinux/$repo/os/$arch
+#Server = http://mirrors.advancedhosters.com/archlinux/$repo/os/$arch
+#Server = http://mirrors.aggregate.org/archlinux/$repo/os/$arch
+#Server = http://ca.us.mirror.archlinux-br.org/$repo/os/$arch
+#Server = http://il.us.mirror.archlinux-br.org/$repo/os/$arch
+#Server = http://archlinux.surlyjake.com/archlinux/$repo/os/$arch
+#Server = http://arlm.tyzoid.com/$repo/os/$arch
+#Server = http://mirror.as65535.net/archlinux/$repo/os/$arch
+#Server = http://mirrors.cat.pdx.edu/archlinux/$repo/os/$arch
+#Server = http://mirror.cc.columbia.edu/pub/linux/archlinux/$repo/os/$arch
+#Server = http://cosmos.cites.illinois.edu/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.cs.pitt.edu/archlinux/$repo/os/$arch
+#Server = http://mirror.cs.vt.edu/pub/ArchLinux/$repo/os/$arch
+#Server = https://mirror.epiphyte.network/archlinux/$repo/os/$arch
+#Server = http://mirror.es.its.nyu.edu/archlinux/$repo/os/$arch
+#Server = http://mirrors.gigenet.com/archlinux/$repo/os/$arch
+#Server = http://mirror.grig.io/archlinux/$repo/os/$arch
+#Server = https://mirror.grig.io/archlinux/$repo/os/$arch
+#Server = http://www.gtlib.gatech.edu/pub/archlinux/$repo/os/$arch
+#Server = http://mirror1.hackingand.coffee/arch/$repo/os/$arch
+#Server = http://mirror2.hackingand.coffee/arch/$repo/os/$arch
+#Server = http://mirror3.hackingand.coffee/arch/$repo/os/$arch
+#Server = http://mirror.htnshost.com/archlinux/$repo/os/$arch
+#Server = http://mirror.jmu.edu/pub/archlinux/$repo/os/$arch
+#Server = http://mirrors.kernel.org/archlinux/$repo/os/$arch
+#Server = https://mirrors.kernel.org/archlinux/$repo/os/$arch
+#Server = http://mirror.us.leaseweb.net/archlinux/$repo/os/$arch
+#Server = https://mirror.us.leaseweb.net/archlinux/$repo/os/$arch
+#Server = http://il.mirrors.linaxe.net/archlinux/$repo/os/$arch
+#Server = http://mirrors.liquidweb.com/archlinux/$repo/os/$arch
+#Server = http://arch.localmsp.org/arch/$repo/os/$arch
+#Server = https://arch.localmsp.org/arch/$repo/os/$arch
+#Server = http://mirror.lty.me/archlinux/$repo/os/$arch
+#Server = https://mirror.lty.me/archlinux/$repo/os/$arch
+#Server = http://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
+#Server = https://mirrors.lug.mtu.edu/archlinux/$repo/os/$arch
+#Server = http://mirror.math.princeton.edu/pub/archlinux/$repo/os/$arch
+#Server = http://mirror.metrocast.net/archlinux/$repo/os/$arch
+#Server = http://mirror.kaminski.io/archlinux/$repo/os/$arch
+#Server = http://mirror.nexcess.net/archlinux/$repo/os/$arch
+#Server = http://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
+#Server = https://mirrors.ocf.berkeley.edu/archlinux/$repo/os/$arch
+#Server = http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch
+#Server = http://arch.mirrors.pair.com/$repo/os/$arch
+#Server = http://mirrors.rit.edu/archlinux/$repo/os/$arch
+#Server = https://mirrors.rit.edu/archlinux/$repo/os/$arch
+#Server = http://mirrors.rutgers.edu/archlinux/$repo/os/$arch
+#Server = https://mirrors.rutgers.edu/archlinux/$repo/os/$arch
+#Server = https://mirrors.tuxns.net/archlinux/$repo/os/$arch
+#Server = http://mirror.umd.edu/archlinux/$repo/os/$arch
+#Server = http://mirror.vtti.vt.edu/archlinux/$repo/os/$arch
+#Server = http://mirrors.xmission.com/archlinux/$repo/os/$arch
+#Server = http://mirror.yellowfiber.net/archlinux/$repo/os/$arch
+
+## Vietnam
+#Server = http://f.archlinuxvn.org/archlinux/$repo/os/$arch
+#Server = http://mirror-fpt-telecom.fpt.net/archlinux/$repo/os/$arch
+
