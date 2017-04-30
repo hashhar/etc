@@ -1,0 +1,1 @@
+ashhar ALL=(ALL) NOPASSWD: /usr/bin/powertop
