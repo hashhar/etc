@@ -1,0 +1,7 @@
+[Unit]
+Description=Powertop tunings
+After=default.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/powertop --auto-tune
