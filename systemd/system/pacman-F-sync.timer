@@ -1,0 +1,10 @@
+[Unit]
+Description=Weekly pacman -Fy
+
+[Timer]
+OnCalendar=weekly
+AccuracySec=1d
+Persistent=true
+
+[Install]
+WantedBy=timers.target

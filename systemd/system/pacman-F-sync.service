@@ -1,0 +1,7 @@
+[Unit]
+Description=Run pacman -Fy
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/pacman -Fy
