@@ -3,5 +3,8 @@ Description=Run pacman -Fy
 After=network-online.target
 
 [Service]
-Type=oneshot
+Type=simple
+ExecStartPre=/home/ashhar/bin/check-internet.sh
 ExecStart=/usr/bin/pacman -Fy
+Restart=on-failure
+RestartSec=5min
