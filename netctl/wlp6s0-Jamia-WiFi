@@ -1,7 +1,0 @@
-Description='Automatically generated profile by wifi-menu'
-Interface=wlp6s0
-Connection=wireless
-Security=none
-ESSID=Jamia-WiFi
-IP=dhcp
-

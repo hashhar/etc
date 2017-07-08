@@ -1,7 +1,0 @@
-Description='Automatically generated profile by wifi-menu'
-Interface=wlp6s0
-Connection=wireless
-Security=wpa
-ESSID=Yo\ G
-IP=dhcp
-Key=\"d68f99c7912fca629f534d3e6d8ff303399106e131cbef3fcf46fd46b9c99323
