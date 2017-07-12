@@ -1,0 +1,7 @@
+Description='Automatically generated profile by wifi-menu'
+Interface=wlp6s0
+Connection=wireless
+Security=wpa
+ESSID=Royal\ Residence\ SF
+IP=dhcp
+Key=royal1010
