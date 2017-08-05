@@ -50,3 +50,4 @@ rtkit:x:133:
 avahi:x:84:
 mpd:x:45:
 dnsmasq:x:995:
+kvm:x:994:
