@@ -27,4 +27,6 @@ PARTUUID=5cf0c98f-d788-44d9-b329-bd06ceec9a70	none			swap	sw												0 0
 
 # Other devices not to be automounted. These entries are here just to assist mount.
 PARTUUID=1be850ea-f79b-11e5-9cc7-34e6d756473b	/media/External1	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+PARTUUID=36902c11-01				/media/External2	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+
 PARTUUID=b5bff52c-04d3-44fa-9b7a-f92e184506ea	/media/Windows		ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
