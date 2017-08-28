@@ -9,16 +9,13 @@
 PARTUUID=48f12819-1c13-4e5c-bf63-a624d8f0c8a9	/boot			vfat	rw,umask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,errors=remount-ro		0 0
 
 # /dev/sdb1 LABEL=Resources
-PARTUUID=18cff7b3-e5a6-11e6-bae1-34e6d756473b	/media/Resources	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+PARTUUID=438bbff9-034f-42c9-9194-f83fea9dea3e	/media/Resources	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
 
 # /dev/sdb2 LABEL=Media
-PARTUUID=f0bbb85f-e68d-11e6-bae5-34e6d756473b	/media/Media		ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+PARTUUID=bcd408e1-4f7b-440d-bbe6-17c7ea9b4920	/media/Media		ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
 
-# /dev/sdb3 LABEL=Data
-PARTUUID=64098584-7140-489e-9522-d312bc1b4382	/media/Data		ext4	rw,relatime											0 2
-
-# /dev/sdb4 LABEL=Swap
-PARTUUID=5cf0c98f-d788-44d9-b329-bd06ceec9a70	none			swap	sw												0 0
+# /dev/sdb3 LABEL=Swap
+PARTUUID=5cf0c98f-d788-44d9-b329-bd06ceec9a70	none			swap	sw,nofail,errors=continue
 
 # Bind mounts
 /media/Media/Music				/home/ashhar/Music	none	bind,noauto,x-systemd.automount									0 0
@@ -27,6 +24,6 @@ PARTUUID=5cf0c98f-d788-44d9-b329-bd06ceec9a70	none			swap	sw												0 0
 
 # Other devices not to be automounted. These entries are here just to assist mount.
 PARTUUID=1be850ea-f79b-11e5-9cc7-34e6d756473b	/media/External1	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
-PARTUUID=36902c11-01				/media/External2	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
+PARTUUID=ccf1b6da-7ffc-11e7-92b6-34e6d756473b	/media/External2	ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
 
 PARTUUID=b5bff52c-04d3-44fa-9b7a-f92e184506ea	/media/Windows		ntfs-3g	uid=1000,gid=1000,dmask=022,fmask=033,windows_names,noauto,x-systemd.automount,x-mount.mkdir	0 0
